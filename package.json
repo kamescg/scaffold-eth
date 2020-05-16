@@ -1,10 +1,11 @@
 {
-  "name": "@uniswap-v1-app/monorepo",
+  "name": "@scaffold-eth/monorepo",
   "version": "1.0.0",
   "keywords": [
     "ethereum",
+    "eth",
+    "web3",
     "react",
-    "uniswap",
     "workspaces",
     "yarn"
   ],
